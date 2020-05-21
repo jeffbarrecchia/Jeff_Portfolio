@@ -26,3 +26,15 @@ In this code, I display several different Classification methods to predict who 
   4. Support Vector Classification
 
 ![](/images/training_vs_test_accuracy.png)
+
+# [Project 4: Predicting Boston House Prices Through Regression](https://github.com/jeffbarrecchia/Boston_Housing_Regression)
+(click above for Housing Regression Repo)
+
+This project used linear regression in order to determine the price of a house based off of several factors. These factors include but are not limited to:
+
+  1. Crime Rate
+  2. Rooms in the House
+  3. Age of the House
+  4. ...
+  
+  
