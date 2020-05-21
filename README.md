@@ -2,6 +2,7 @@
 Datascience Portfolio
 
 # [Project 1: Building Fitness Profiles for Customers](https://github.com/jeffbarrecchia/Fitness_Profile_Project)
+(click above for github repo)
 
 This project was done with a dataset pulled off of Kaggle. It features several different graphs and modeling
 as well as a couple simple linear regression examples to predict how many miles a customer will plan on riding
