@@ -1,4 +1,4 @@
-# Jeff Barrecchia Portfolio
+# Jeff_Portfolio
 Datascience Portfolio
 
 # [Project 1: Building Fitness Profiles for Customers](https://github.com/jeffbarrecchia/Fitness_Profile_Project)
