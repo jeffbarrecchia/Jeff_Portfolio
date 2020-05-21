@@ -15,7 +15,7 @@ In this project, the idea was to construct a predictive model through classifica
 
 ![](/images/swarmplot_age_to_survival.png)
 
-# [Project 3: Classification Techniques](https://github.com/jeffbarrecchia/classification_techniques)
+# [Project 3: Predicting Diabetics Through Classification](https://github.com/jeffbarrecchia/diabetic_classification)
 (click above for Techniques repo)
 
 In this code, I display several different Classification methods to predict who does or doe not have diabetes. The dataset was pulled off of Github. The methods are:
