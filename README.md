@@ -18,7 +18,7 @@ In this project, the idea was to construct a predictive model through classifica
 # [Project 3: Predicting Diabetics Through Classification](https://github.com/jeffbarrecchia/diabetic_classification)
 (click above for Techniques repo)
 
-In this code, I display several different Classification methods to predict who does or doe not have diabetes. The dataset was pulled off of Github. The methods are:
+In this code, I display several different Classification methods to predict who does or does not have diabetes. The dataset was pulled off of Github. The methods are:
 
   1. K-Nearest Neighbor
   2. Decision Tree Classification
