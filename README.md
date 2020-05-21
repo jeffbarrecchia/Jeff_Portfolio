@@ -1,4 +1,3 @@
-# Jeff_Barrecchia_Portfolio
 Datascience Portfolio
 
 Project 1: Building Fitness Profiles for Customers
