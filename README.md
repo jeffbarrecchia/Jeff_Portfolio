@@ -37,4 +37,4 @@ This project used linear regression in order to determine the price of a house b
   3. Age of the House
   4. ...
   
-  
+![](/images/heatmap_boston_housin.png)
