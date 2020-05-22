@@ -1,6 +1,6 @@
 # Introduction
 
-Hello! My name is Jeff Barrecchia, and I am an aspiring Data Analyst. I am currently in my senior year at Rowan University, pursuing a Bachelor's Degree in Mathematics and a Minor in Economics. I am set to graduate in December of 2020, and as such have built out this portfolio to display my skills. Every project featured on this page, and on my GitHub, is strictly done in Python. Packages I used include, but are not limited to: pandas for dataframe and csv manipulation; numpy for advanced mathematical computations; sci-kit learn for regression and/or classification done; and matplotlib/seaborn for visuals and plotting. Thanks for visiting my page!
+Hello! My name is Jeff Barrecchia, and I am an aspiring Data Analyst. I am currently in my senior year at Rowan University, pursuing a Bachelor's Degree in Mathematics and a Minor in Economics. I am set to graduate in December of 2020, and as such have built out this portfolio to display my skills. Every project featured on this page, and on my GitHub, is strictly done in Python. Packages I used include, but are not limited to: pandas for dataframe and csv manipulation; numpy for advanced mathematical computations; scikit-learn for regression and/or classification done; and matplotlib/seaborn for visuals and plotting. Thanks for visiting my page!
 
 # [Project 1: Building Fitness Profiles for Customers](https://github.com/jeffbarrecchia/Fitness_Profile_Project)
 (click above for Fitness repo)
