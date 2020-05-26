@@ -2,21 +2,16 @@
 
 Hello! My name is Jeff Barrecchia, and I am an aspiring Data Analyst. I am currently in my senior year at Rowan University, pursuing a Bachelor's Degree in Mathematics and a Minor in Economics. I am set to graduate in December of 2020, and as such have built out this portfolio to display my skills. Every project featured on this page, and on my GitHub, is strictly done in Python. Packages I used include, but are not limited to: pandas for dataframe and csv manipulation; numpy for advanced mathematical computations; scikit-learn for regression and/or classification done; and matplotlib/seaborn for visuals and plotting. Thanks for visiting my page!
 
-# [Project 1: Building Fitness Profiles for Customers](https://github.com/jeffbarrecchia/Fitness_Profile_Project)
+# Projects Done via Python
+
+## [Project 1: Building Fitness Profiles for Customers](https://github.com/jeffbarrecchia/Fitness_Profile_Project)
 (click above for Fitness repo)
 
 This project was done with a dataset pulled off of Kaggle. It features several different graphs and modeling as well as a couple simple linear regression examples to predict how many miles a customer will plan on riding per week. These are based off of several factors: income, gender, age, and current fitness level the customer says they are at.
 
 ![](/images/pairplot.png)
 
-# [Project 2: Predicting Survivors Aboard the Titanic](https://github.com/jeffbarrecchia/Titanic_Prediction)
-(click above for Titanic repo)
-
-In this project, the idea was to construct a predictive model through classification to decide who will or will not die aboard the Titanic. Used in this project was CatBoostClassifier. I also made several informative displays regarding different variable and how they relate to survival aboard the Titanic, including a heatmap covering the correlation of all variables.
-
-![](/images/swarmplot_age_to_survival.png)
-
-# [Project 3: Predicting Diabetics Through Classification](https://github.com/jeffbarrecchia/diabetic_classification)
+## [Project 2: Predicting Diabetics Through Classification](https://github.com/jeffbarrecchia/diabetic_classification)
 (click above for Techniques repo)
 
 In this code, I display several different Classification methods to predict who does or does not have diabetes. The dataset was pulled off of Github. The methods are:
@@ -28,7 +23,7 @@ In this code, I display several different Classification methods to predict who 
 
 ![](/images/training_vs_test_accuracy.png)
 
-# [Project 4: Predicting Boston House Prices Through Regression](https://github.com/jeffbarrecchia/Boston_Housing_Regression)
+## [Project 3: Predicting Boston House Prices Through Regression](https://github.com/jeffbarrecchia/Boston_Housing_Regression)
 (click above for Housing Regression Repo)
 
 This project used linear regression in order to determine the price of a house based off of several factors. These factors include but are not limited to:
@@ -40,14 +35,14 @@ This project used linear regression in order to determine the price of a house b
   
 ![](/images/heatmap_boston_housin.png)
 
-# [Project 5: Predicting Test Scores Through Regression](https://github.com/jeffbarrecchia/Test_Score_Regression)
+## [Project 4: Predicting Test Scores Through Regression](https://github.com/jeffbarrecchia/Test_Score_Regression)
 (click above for GPA Regression Repo)
 
 With this dataset, there were a few challenges, most namely dealing with the nominal variables and how to perform regression with those. I researched and came up with a technique in the pandas module: get_dummies. This added 26 new columns, but made the regression possible. The model achieved an accuracy of 83.09% on the training dataset, and an accuracy of 87.96% on the test dataset.
 
 ![](/images/distribution_of_grades.png)
 
-# [Project 6: Predicting Marriage Through Classification](https://github.com/jeffbarrecchia/married_at_first_sight_classification)
+# [Project 5: Predicting Marriage Through Classification](https://github.com/jeffbarrecchia/married_at_first_sight_classification)
 (click above for Marriage Repo)
 
 This dataset was pulled from Kaggle.
